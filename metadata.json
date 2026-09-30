@@ -1,0 +1,10 @@
+{
+  "name": "Remix Ramo de Flores Hot Wheels",
+  "description": "Experiencia web interactiva con estética nocturna neón, ramo de girasoles celestes casi realistas, carritos Hot Wheels corriendo y tarjetas interactivas de dedicatoria al final ",
+  "requestFramePermissions": [
+    "CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
